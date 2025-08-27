@@ -1,0 +1,12 @@
+# 仮想環境フォルダ
+.venv/
+venv/
+
+# 環境変数ファイル
+.env.local
+
+# macOSのシステムファイル
+.DS_Store
+
+# Pythonのキャッシュフォルダ
+__pycache__/
